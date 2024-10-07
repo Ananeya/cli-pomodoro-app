@@ -23,7 +23,7 @@ To run this application, ensure you have [Node.js](https://nodejs.org/) installe
 1. Clone the repository or download the code.
 
    ```bash
-   git clone https://github.com/yourusername/pomodoro-timer-cli.git
+   git clone https://github.com/Ananeya/pomodoro-timer-cli.git
    cd pomodoro-timer-cli
 2. Install any dependencies if necessary (currently there are none).
 
